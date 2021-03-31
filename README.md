@@ -9,6 +9,7 @@ The videofeed is currently from an app called as droidCam (https://play.google.c
 The yolo model used for hand detection is taken from https://github.com/cansik/yolo-hand-detection
 
 The model weights for cross hands tiny is available in https://github.com/cansik/yolo-hand-detection/releases/download/pretrained/cross-hands-tiny-prn.weights
+Download the model weights and place it in the models folder
 
 The setup to the yolo model is briefly explained in https://github.com/cansik/yolo-hand-detection/blob/master/README.md
 
